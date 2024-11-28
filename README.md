@@ -4,8 +4,8 @@ I am passionate about Software Engineering, Business Analytics, and Security Eng
 
 
 - 🔭 Just finished my Honours in Information Systems at UCT
-- 🌱 I’m currently learning Full-Stack Development and Security Engineering
-- 👯 I’m looking to collaborate on projects related to software development/cybersecurity
+- 🌱 I am currently enhancing my expertise in Full-Stack Development, focusing on integrating AI, Cloud Technologies, and Security Engineering.
+- 👯 I’m looking to collaborate on projects related to Software Development/AI
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: My Rank in CODM is Legendary <br> <br>
   
@@ -29,7 +29,7 @@ As I advance my skills in software engineering, I’m concentrating on:
 As I delve deeper into security engineering, I’m focusing on:
 
 - Penetration Testing & Threat Analysis: I’m expanding my knowledge in penetration testing and threat analysis through certifications and platforms like TryHackMe.
-- Secure Coding Practices: Ensuring secure development practices in every phase of the SDLC is a priority for me. <br> <br>
+- Secure Coding Practices: Ensuring secure development practices in every phase of the SDLC. <br> <br>
       
 
 

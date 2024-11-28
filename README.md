@@ -28,7 +28,7 @@ As I advance my skills in software engineering, I’m concentrating on:
 ### 🔒 Security Engineering Focus
 As I delve deeper into security engineering, I’m focusing on:
 
-- Penetration Testing & Threat Analysis: I’m expanding my knowledge in penetration testing and threat analysis through certifications and platforms like TryHackMe.
+- Penetration Testing & Threat Analysis: I’m expanding my knowledge in penetration testing and threat analysis through platforms like TryHackMe.
 - Secure Coding Practices: Ensuring secure development practices in every phase of the SDLC. <br> <br>
       
 

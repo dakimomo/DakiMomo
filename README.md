@@ -1,6 +1,6 @@
 # Hi there I'm Daki👋
 
-I am passionate about Software Engineering, Business Analytics, and Security Engineering with a commitment to creating innovative solutions that tackle real-world  problems while aligning with modern software development standards. My mission is to develop impactful systems that drive business value and contribute positively to society. <br> <br>
+I am passionate about Software Engineering, Business Analytics, and Security Engineering, committed to creating innovative solutions that tackle real-world problems while aligning with modern software development standards. My mission is to contribute to the development of impactful technical solutions that drive business value and contribute positively to society. <br> <br>
 
 
 - 🔭 Just finished my Honours in Information Systems at UCT
